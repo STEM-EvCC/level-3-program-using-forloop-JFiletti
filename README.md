@@ -1,3 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9aHTYUBc)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15110229)
-# STEM103_Level3_1-ForLoop
+Programmer: John Filetti
+Program: LVL 3 Program using for loop
+Description: 
+ Program that iterates through three lists of data pertaining to NASA missions, 
+ tracks missions flown, calculates success rate, and flights that took place prior to the year 2000. 
+ Outputs number of flights, success rate, and pre 2000 missions to command screen. 
